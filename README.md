@@ -1,4 +1,4 @@
-# Trading Bot Demo
+# Carthago Flashloan Trading bot
 
 ## Technology Stack & Tools
 
