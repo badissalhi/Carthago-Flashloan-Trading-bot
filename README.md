@@ -11,7 +11,7 @@
 
 ## Requirements For Initial Setup
 
-- Install [NodeJS](https://nodejs.org/en/), I recommend using node version 16.14.2 to avoid any potential dependency issues
+- Install [NodeJS](https://nodejs.org/en/)
 - Install [Truffle](https://github.com/trufflesuite/truffle), In your terminal, you can check to see if you have truffle by running `truffle --version`. To install truffle run `npm i -g truffle`.
 - Install [Ganache-CLI](https://github.com/trufflesuite/ganache). To see if you have ganache-cli installed, in your command line type `ganache --version`. To install, in your command line type `npm install ganache --global`
 
