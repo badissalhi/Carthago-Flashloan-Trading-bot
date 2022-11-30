@@ -1,4 +1,4 @@
-# Carthago Flashloan Trading bot
+# Carthago Arbitrage Flashloan Trading Bot For ERC20 Tokens
 
 ## Technology Stack & Tools
 
